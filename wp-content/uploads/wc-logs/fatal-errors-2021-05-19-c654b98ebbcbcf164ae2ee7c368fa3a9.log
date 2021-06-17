@@ -1,0 +1,30 @@
+2021-05-19T11:49:59+00:00 CRITICAL Uncaught Error: Call to undefined function right_side() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\right-side.php:2
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\wcfmmp-view-store.php(178): include_once()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\core\class-wcfmmp-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\core\class-wcfmmp-rewrite.php(430): WCFMmp_Template->get_template('store/wcfmmp-vi...', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(292): WCFMmp_Rewrites->store_template('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(212): WP_Hook->apply_filters('D:\\xampp\\htdocs...', Array)
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\template-loader.php(104): apply_filters('template_includ...', 'D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(19): in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\right-side.php on line 2
+
+2021-05-19T11:50:47+00:00 CRITICAL Uncaught Error: Call to undefined function right_side() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\right-side.php:2
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\wcfmmp-view-store.php(178): include_once()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\core\class-wcfmmp-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\core\class-wcfmmp-rewrite.php(430): WCFMmp_Template->get_template('store/wcfmmp-vi...', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(292): WCFMmp_Rewrites->store_template('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(212): WP_Hook->apply_filters('D:\\xampp\\htdocs...', Array)
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\template-loader.php(104): apply_filters('template_includ...', 'D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(19): in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\right-side.php on line 2
+
+2021-05-19T11:54:42+00:00 CRITICAL Uncaught Error: Call to undefined function right_side() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\right-side.php:2
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\wcfmmp-view-store.php(178): include_once()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\core\class-wcfmmp-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\core\class-wcfmmp-rewrite.php(430): WCFMmp_Template->get_template('store/wcfmmp-vi...', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(292): WCFMmp_Rewrites->store_template('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(212): WP_Hook->apply_filters('D:\\xampp\\htdocs...', Array)
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\template-loader.php(104): apply_filters('template_includ...', 'D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(19): in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\store\right-side.php on line 2
+

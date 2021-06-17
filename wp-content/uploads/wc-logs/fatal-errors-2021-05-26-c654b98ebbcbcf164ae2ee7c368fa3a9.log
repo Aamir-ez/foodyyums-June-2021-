@@ -1,0 +1,13 @@
+2021-05-26T05:09:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\foodyyums.com\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-05-26T05:49:50+00:00 CRITICAL Uncaught Error: Call to undefined function foodbakery_var_theme_text_srt() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\foodbakery-framework\includes\cs-widgets\cs-social-media.php:20
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-widget-factory.php(61): Foodbakery_Social_media->__construct()
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\widgets.php(115): WP_Widget_Factory->register('Foodbakery_Soci...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\foodbakery-framework\includes\cs-widgets\cs-social-media.php(180): register_widget('Foodbakery_Soci...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(292): wp_foodbakery_framework->{closure}('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 D:\xampp\htdocs\foodyyums.com\wp-includes\widgets.php(1799): do_action('widgets_init')
+#7 D:\xampp\htdocs\foodyyums.com\wp-includes in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\foodbakery-framework\includes\cs-widgets\cs-social-media.php on line 20
+

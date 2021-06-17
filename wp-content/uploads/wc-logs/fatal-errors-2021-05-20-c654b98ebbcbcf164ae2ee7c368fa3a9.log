@@ -1,0 +1,65 @@
+2021-05-20T07:40:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\foodyyums.com\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-05-20T13:15:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1997
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-settings.php(528): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-config.php(99): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1997
+
+2021-05-20T13:15:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1997
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-settings.php(528): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-config.php(99): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1997
+
+2021-05-20T13:15:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1997
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-settings.php(528): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-config.php(99): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1997
+
+2021-05-20T13:19:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1999
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php(2007): unset_session_empty_cart()
+#1 D:\xampp\htdocs\foodyyums.com\wp-settings.php(528): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-config.php(99): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\foodyyums.com\index.php(17): require('D:\\xampp\\htdocs...')
+#6 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1999
+
+2021-05-20T13:22:26+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1999
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php(2007): unset_session_empty_cart()
+#1 D:\xampp\htdocs\foodyyums.com\wp-settings.php(528): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-config.php(99): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\foodyyums.com\index.php(17): require('D:\\xampp\\htdocs...')
+#6 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1999
+
+2021-05-20T13:22:27+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1999
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php(2007): unset_session_empty_cart()
+#1 D:\xampp\htdocs\foodyyums.com\wp-settings.php(528): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-config.php(99): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\foodyyums.com\index.php(17): require('D:\\xampp\\htdocs...')
+#6 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1999
+

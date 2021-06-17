@@ -1,0 +1,72 @@
+/* 
+    Created on : Apr 17, 2021, 11:32:52 PM
+    Author     : Administrator
+*/
+
+#wcfmmp-store-content {    background: #ebedf3;}
+#store_container {    margin: 8% auto;}
+.categories-menu li a {
+    display: block;
+    color: #999ba3;
+    font-size: 12px;
+    border-bottom: 1px solid #dee1e9;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 0;
+    text-decoration: none;
+    outline: none;
+}
+.products li {
+    display: inline-block;
+    list-style: none;
+    border-bottom: 1px solid #ebedf3;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    position: relative;
+}
+.woocommerce-LoopProduct-link.woocommerce-loop-product__link {
+    display: inline-block;
+    width: 65px;
+    height: 65px;
+    vertical-align: top;
+}
+.woocommerce-loop-product__title {
+    padding-left: 10px;
+    width: -webkit-calc(100% - 170px);
+    width: -moz-calc(100% - 170px);
+    width: calc(100% - 170px);
+}
+.price {
+    font-size: 14px;
+    color: #2f313a;
+    font-family: 'Montserrat', sans-serif;
+    vertical-align: middle;
+}.tab_links {
+    background: transparent !important;
+}
+#wcfmmp-store .tab_area .tab_links li {
+    display: inline-block;
+    float: none;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+.tab_links li, #wcfmmp-store .tab_area .tab_links li.active {
+    border: none !important;
+}
+#wcfmmp-store .tab_area .tab_links {
+    margin: 0;
+}
+#wcfmmp-store .reviews_area, #wcfmmp-store .policies_area, #wcfmmp-store .wcfm_store_description{margin:0;}
+
+#wcfmmp-store .tab_area .tab_links {
+    border: none;
+}
+#wcfmmp-store .tab_area .tab_links li:first-child{
+    border-top-left-radius: 5px;
+}
+
+#wcfmmp-store .tab_area .tab_links li:after{display:none;}#wcfmmp-store .tab_area .tab_links li a:hover,#wcfmmp-store .tab_area .tab_links li:hover a, #wcfmmp-store .tab_area .tab_links li.active a{color: #c33332 !important;}
+#wcfmmp-store .tab_area .tab_links li a{    padding: 12px 30px;    line-height: normal;    display: inline-block;    position: relative;    font-size: 14px;    font-weight: 600;}
+.sub-header {    display: none;}
+
